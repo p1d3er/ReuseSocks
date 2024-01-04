@@ -162,3 +162,12 @@ C:\Users\Desktop>ReuseSocks_client.exe -remote 192.168.10.161:80
 配置socks5代理为:`127.0.0.1:1080`即可
 
 注：使用完之后记得删除规则
+
+
+ReuseSocks_client.exe sha256 d93fadd904e7a2256157f6d1d8361755d713b83eaaa042d65e28032230e027f6
+
+ReuseSocks_Server sha256 6d465498376fd8449765dafc4584c3224aca1f0fa999d19f6524719a6d9cef4d
+
+ReuseSocks_Server.exe sha256 101404786f902cb9538cb0247e11cd54d29b50ea4b86961eb1a1931344d8cd58
+
+仅供技术研究使用，请勿用于非法用途，否则后果作者概不负责
